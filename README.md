@@ -10,8 +10,14 @@ Blog: [backend nodejs](https://anonystick.com)
 ### clone git
 
 ```
-> git clone https://github.com/anonystick/structure-api-mvc-express-nodejs.git your-project
+> git clone https://github.com/hailt88/shopdevtest.git <your-project-name>
 > cd your-project
+git init
+git add .
+git commit -m "message"
+git remote add origin <git url>
+git push -f origin main
+-----------
 > npm i
 > npm run dev
 ```
